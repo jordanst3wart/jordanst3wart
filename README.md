@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on Openbanking
-- 🌱 I’m currently learning lucidchart, and guitar
+- 🌱 I’m currently learning lucidcharts, guitar, speaching, and conversational skills
 
 <!--
 **jordanst3wart/jordanst3wart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
