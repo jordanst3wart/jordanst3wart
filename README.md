@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on exiting vim
-- working at propcode.com.au
+- working at [propcode](https://propcode.com.au)
 
 <!--
 **jordanst3wart/jordanst3wart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
