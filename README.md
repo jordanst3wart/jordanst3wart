@@ -1,5 +1,4 @@
 ### Hello there 👋
 
-- I'm a fullstack software engineer
-- I’m currently working on exiting vim
-- I'm learning Golang, and HTMX
+- I'm a software engineer
+- I’m currently learning: helix, zed editor, jj, nixos and hyprland
