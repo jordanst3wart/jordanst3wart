@@ -1,11 +1,3 @@
 ### Hello there 👋
 
-- I'm a software engineer
-- I’m currently learning: helix, zed editor, jj, nixos and hyprland
-
-### I've created
-
-- a [gradle plugin that runs terraform (in kotlin)](https://github.com/jordanst3wart/gradle-terraform-plugin)
-- a [hcl configuration file parser (in kotlin)](https://github.com/jordanst3wart/hcl)
-- some things in the [terraform aws provider](https://github.com/hashicorp/terraform-provider-aws/pulls?q=is%3Apr+author%3Ajordanst3wart+is%3Amerged+)
-- some [documenting in nushell](https://github.com/nushell/nushell/pulls?q=is%3Apr+author%3Ajordanst3wart+is%3Amerged)
+- I’m currently learning: helix, jj, nixos, hyprland, chinese, machine learning and how to better use agents (this might not be updated)
